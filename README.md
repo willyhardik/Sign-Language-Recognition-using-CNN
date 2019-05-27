@@ -11,10 +11,4 @@ The Google colab notebook link https://colab.research.google.com/drive/1ORq0MmAD
 
 The model is built as .h5 file. To use it in android we need to convert it in tflite file
 
-Android App has tensorflowInterpreter library to use the tflite file for predictions in java 
-
-
-OUTPUT SCREEN SHOT
-
-        
-        
+Android App has tensorflowInterpreter library to use the tflite file for predictions in java.
